@@ -14,8 +14,11 @@
 ### Connect With me: 
  <a href="https://discord.gg/5JtJFEcZeP" rel="nofollow">
   <img alt="beCoditive's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a>
+  <a href="https://instagram.com/beCoditive" rel="nofollow">
+  <img alt="beCoditive's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" style="max-width:100%;" width="22px" align="left"></a>
  <a href="https://twitter.com/BCoditive" rel="nofollow">
   <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br>
+  
 
 
 ### Stats: 
