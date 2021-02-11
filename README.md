@@ -15,7 +15,7 @@
  <a href="https://discord.gg/5JtJFEcZeP" rel="nofollow">
   <img alt="beCoditive's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a>
   <a href="https://instagram.com/beCoditive" rel="nofollow">
-  <img alt="beCoditive's Insta" src="https://i.pinimg.com/originals/17/cc/25/17cc25b973509e476481b3af05da5f49.jpg" style="max-width:100%;" width="22px" align="left"></a>
+  <img alt="beCoditive's Insta" src="https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png" style="max-width:100%;" width="22px" align="left"></a>
  <a href="https://twitter.com/BCoditive" rel="nofollow">
   <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br>
   
