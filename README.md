@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there , I'm Max - aka [beCoditive][https://becoditive.ml]
 
-<!--
-**beCoditive/beCoditive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://becoditive.ml)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BCoditive)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Bot Developer and Web Developer
+- 🤖 I'm currently working on [Max Bot Upadates][https://github.com/beCoditive/Max-Bot]
+- 🥅 2021 Goals To make as many as possible Open Source projects.
+- 🤖 Some of My Upcoming Projects Are Dank Memor , Ticket Tools , Giveaway Bot and Ultimate Forms.
+- ⚡ Fun Fact : I Love to Code
+
+### Connect With me: https
+
