@@ -1,7 +1,7 @@
 ### Hi there , I'm Max - aka [beCoditive][https://becoditive.ml]
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://becoditive.ml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BCoditive)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcbecoditive.ml)](https://becoditive.ml)
+[![Twitter Follow](https://img.shields.io/twitter/follow/beCoditive?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BCoditive)
 
 
 ## I'm a Bot Developer and Web Developer
@@ -10,5 +10,5 @@
 - 🤖 Some of My Upcoming Projects Are Dank Memor , Ticket Tools , Giveaway Bot and Ultimate Forms.
 - ⚡ Fun Fact : I Love to Code
 
-### Connect With me: https
+### Connect With me: 
 
