@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=beCoditive&style=for-the-badge&url=https%3A%2F%2Fbecoditive.ml)](https://becoditive.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BCoditive?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BCoditive)
+[![Support Server Invite](https://img.shields.io/discord/760922672519184384.svg?color=7289da&label=beCoditive&logo=discord&style=flat-square)](https://discord.gg/5JtJFEcZeP)
 
 
 ## I'm a Bot Developer and Web Developer
