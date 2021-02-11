@@ -6,7 +6,7 @@
 
 
 ## I'm a Bot Developer and Web Developer
-- 🤖 I'm currently working on [Max Bot Upadates](https://github.com/beCoditive/Max-Bot)
+- 🤖 I'm currently working on [Max Bot Updates](https://github.com/beCoditive/Max-Bot)
 - 🥅 2021 Goals To make as many as possible Open Source projects.
 - 🤖 Some of My Upcoming Projects Are Dank Memor , Ticket Tools , Giveaway Bot and Ultimate Forms.
 - ⚡ Fun Fact : I Love to Code
