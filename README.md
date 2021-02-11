@@ -1,6 +1,6 @@
 ### Hi there , I'm Max - aka [beCoditive][https://becoditive.ml]
 
-[![Website](https://img.shields.io/website?label=beCoditive&style=for-the-badge&url=https%3A%2F%2Fbecoditive.ml)](https://becoditive.ml)  
+[![Website](https://img.shields.io/website?label=beCoditive&style=for-the-badge&url=https%3A%2F%2Fbecoditive.ml)](https://becoditive.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BCoditive?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BCoditive)
 
 
@@ -14,6 +14,8 @@
 ### Connect With me: 
  <a href="https://discord.gg/5JtJFEcZeP" rel="nofollow">
   <img alt="beCoditive's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a><br>
+ <a href="https://twitter.com/BCoditive" rel="nofollow">
+  <img alt="beCoditive's Twitter" src="https://twitter.com/BCoditive" style="max-width:100%;" width="22px" align="left"></a><br>
 
 
 ### Stats: 
