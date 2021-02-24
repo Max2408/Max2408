@@ -24,7 +24,7 @@
 ### Stats: 
 <img align="left" alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=beCoditive&show_icons=true&hide_border=true" />
 
-
+<br>
 <details>
  <summary><b>My Projects</b></summary>
 <p align="center">
