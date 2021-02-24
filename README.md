@@ -23,3 +23,14 @@
 
 ### Stats: 
 <img align="left" alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=beCoditive&show_icons=true&hide_border=true" />
+
+<details>
+ <summary><b>My Projects</b></summary>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=anti-link-for-discord&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Lavalink-Music-Bot-V2&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Discord-Youtube-Notifier-Bot&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Latest-Subreddit-Posts&theme=radical">
+ </p>
+ 
+</details>
