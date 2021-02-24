@@ -19,12 +19,6 @@
  <a href="https://twitter.com/BCoditive" rel="nofollow">
   <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br>
   
-
-
-### Stats: 
-<img align="left" alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=beCoditive&show_icons=true&hide_border=true" />
-
-<br>
 <details>
  <summary><b>My Projects</b></summary>
 <p align="center">
@@ -33,3 +27,6 @@
  </p>
  
 </details>
+<br>
+
+<img align="left" alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=beCoditive&show_icons=true&hide_border=true" />
