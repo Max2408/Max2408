@@ -20,9 +20,8 @@
   <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br>
   
   
-  <br><br>
-  
-  
+  <br>
+   
 <details>
  <summary><b>My Projects</b></summary>
 <p align="center">
