@@ -31,8 +31,6 @@ Email: ``max@becoditive.com``
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=beCoditive&repo=Max-Bot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=beCoditive&repo=random-jokes-api">
- <br> <br> <br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=beCoditive&repo=beCoditive-Discord-Theme">
  </p>
  
 </details>
