@@ -29,7 +29,9 @@ Email: ``max@becoditive.com``
 
 ## My Works:
 Max Bot - https://github.com/beCoditive/Max-Bot
+
 random-jokes-api - https://github.com/beCoditive/random-jokes-api
+
 Better Discord Theme - https://github.com/beCoditive/beCoditive-Discord-Theme
  
 <br>
