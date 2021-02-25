@@ -26,14 +26,12 @@ Email: ``max@becoditive.com``
   
 <br>
    
-<details>
- <summary><b>My Projects</b></summary>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=beCoditive&repo=Max-Bot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=beCoditive&repo=random-jokes-api">
  </p>
  
-</details>
 <br>
 
 <p align="center">
