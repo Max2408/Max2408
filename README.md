@@ -27,10 +27,10 @@ Email: ``max@becoditive.com``
 <br>
    
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=beCoditive&repo=Max-Bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=beCoditive&repo=random-jokes-api">
- </p>
+## My Works:
+Max Bot - https://github.com/beCoditive/Max-Bot
+random-jokes-api - https://github.com/beCoditive/random-jokes-api
+Better Discord Theme - https://github.com/beCoditive/beCoditive-Discord-Theme
  
 <br>
 
