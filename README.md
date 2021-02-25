@@ -18,9 +18,12 @@
   <img alt="beCoditive's Insta" src="https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png" style="max-width:100%;" width="22px" align="left"></a>
  <a href="https://twitter.com/BCoditive" rel="nofollow">
   <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br>
+
+Discord: ``DevShaded#1435``
+Email: ``max@becoditive.com``
   
   
-  <br>
+<br>
    
 <details>
  <summary><b>My Projects</b></summary>
