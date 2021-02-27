@@ -1,4 +1,4 @@
-### Hi there , I'm Max - aka [beCoditive](https://becoditive.ml)
+### Hi there , I'm Max - aka [beCoditive](https://github.com/beCoditive)
 
 [![Website](https://img.shields.io/website?label=beCoditive&style=for-the-badge&url=https%3A%2F%2Fbecoditive.ml)](https://becoditive.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BCoditive?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BCoditive)
