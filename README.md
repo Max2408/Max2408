@@ -32,10 +32,10 @@ Max Bot - https://github.com/beCoditive/Max-Bot
 
 random-jokes-api - https://github.com/beCoditive/random-jokes-api
 
-Better Discord Theme - https://github.com/beCoditive/beCoditive-Discord-Theme
+Better Discord Theme - https://github.com/Max2408/beCoditive-Discord-Theme
  
 <br>
 
 <p align="center">
-<img align="left" alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=beCoditive&show_icons=true&hide_border=true" />
+<img align="left" alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Max2408&show_icons=true&hide_border=true" />
 </p>
