@@ -37,5 +37,10 @@ Better Discord Theme - https://github.com/Max2408/beCoditive-Discord-Theme
 <br>
 
 <p align="center">
-<img align="left" alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Max2408&show_icons=true&hide_border=true" />
+<img alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Max2408&show_icons=true&hide_border=true" />
+</p>
+
+## beCoditive Stats:
+<p align="center">
+<img alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=beCoditive&show_icons=true&hide_border=true" />
 </p>
