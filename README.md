@@ -21,7 +21,7 @@
 
 Discord: ``</Max>#2408``
 
-Email: ``max@becoditive.ml``
+Email: ``contact@becoditive.ml``
   
   
 <br>
