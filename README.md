@@ -12,16 +12,16 @@
 - ⚡ Fun Fact : I Love to Code
 
 ### Connect With me: 
- <a href="https://discord.gg/5JtJFEcZeP" rel="nofollow">
-  <img alt="beCoditive's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a>
+ <a href="https://discord.gg/BgWv28uQD4" rel="nofollow">
+  <img alt="Phoenixx Support" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a>
   <a href="https://instagram.com/beCoditive" rel="nofollow">
   <img alt="beCoditive's Insta" src="https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png" style="max-width:100%;" width="22px" align="left"></a>
  <a href="https://twitter.com/BCoditive" rel="nofollow">
   <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br><br>
 
-Discord: ``</Max>#2408``
+Discord: ``</Max>#5589``
 
-Email: ``contact@becoditive.ml``
+Email: ``becoditive@gmail.com``
   
   
 <br>
@@ -32,11 +32,11 @@ Max Bot - https://github.com/beCoditive/Max-Bot
 
 random-jokes-api - https://github.com/beCoditive/random-jokes-api
 
-Better Discord Theme - https://github.com/Max2408/beCoditive-Discord-Theme
+Better Discord Theme - https://github.com/beCoditive/beCoditive-api
  
 <br>
 
 <p align="left">
-<img alt="beCoditive's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Max2408&show_icons=true&hide_border=true" />
+<img alt="Max's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Max2408&show_icons=true&hide_border=true" />
 </p>
 
