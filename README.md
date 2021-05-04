@@ -7,8 +7,9 @@
 
 ## I'm a Bot Developer and Web Developer
 - 🤖 I'm currently working on [Max Bot Updates](https://github.com/beCoditive/Max-Bot)
+- ⚡ I'm Great in Back-End Projects and learning Front-End Also!
 - 🥅 2021 Goals To make as many as possible Open Source projects.
-- 🤖 Some of My Upcoming Projects Are Dank Memor , Ticket Tools , Giveaway Bot and some Npm Packages
+- 🤖 Some of My Upcoming Projects Are  [Phonixx](https://dsc.gg/phonixx) , [BitXire API](https://discord.gg/kZbbMSDnBc) and some Npm Packages
 - ⚡ Fun Fact : I Love to Code
 
 ### Connect With me: 
@@ -32,7 +33,7 @@ Max Bot - https://github.com/beCoditive/Max-Bot
 
 random-jokes-api - https://github.com/beCoditive/random-jokes-api
 
-Better Discord Theme - https://github.com/beCoditive/beCoditive-api
+beCoditive API - https://github.com/beCoditive/beCoditive-api
  
 <br>
 
