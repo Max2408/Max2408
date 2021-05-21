@@ -38,6 +38,6 @@ beCoditive API - https://github.com/beCoditive/beCoditive-api
 <br>
 
 <p align="left">
-<img alt="MAX's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Max2408&show_icons=true&hide_border=true" />
+<img alt="MAX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Max2408&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </p>
 
