@@ -12,7 +12,7 @@
 - 🤖 Some of My Upcoming Projects Are  [Phonixx](https://dsc.gg/phonixx) , [BitXire API](https://discord.gg/kZbbMSDnBc) and some Npm Packages
 - ⚡ Fun Fact : I Love to Code
 
-![Profile Views](https://komarev.com/ghpvc/?username=Max2408)
+![My Profile Views](https://komarev.com/ghpvc/?username=Max2408)
 
 ### Connect With me: 
  <a href="https://discord.gg/BgWv28uQD4" rel="nofollow">
