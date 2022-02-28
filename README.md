@@ -29,7 +29,7 @@
 
 Discord: ``</Max>#5589``
 
-Email: ``contact@becoditive.xyz``
+Email: ``max@ecarrd.com``
   
   
 <br>
