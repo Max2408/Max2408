@@ -1,15 +1,10 @@
-### Hi there , I'm Max - aka [beCoditive's Owner](https://github.com/beCoditive)
-
-[![Website](https://img.shields.io/website?label=beCoditive-API&style=for-the-badge&url=https%3A%2F%2Fapi.becoditive.xyz)](https://api.becoditive.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/BCoditive?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BCoditive)
-
+### Hi there , I'm Max - aka [OpenRooted's Owner](https://github.com/OpenRooted)
 
 
 ## I'm a Bot Developer and Web Developer
-- 🤖 I'm currently working on [beCoditive API Updates](https://github.com/beCoditive/beCoditive-API)
+- 🤖 I'm currently working on [OpenRooted's Project: EasyBotJs](https://github.com/OpenRooted/EasyBotJs)
 - ⚡ I'm Great in Back-End Projects and learning Front-End Also!
-- 🥅 2021 Goals To make as many as possible Open Source projects.
-- 🤖 Some of My Upcoming Projects Are  [Phonixx](https://dsc.gg/phonixx) , [BitXire API](https://discord.gg/kZbbMSDnBc) and some Npm Packages
+- 🥅 2023 Goals To make as many as possible Open Source projects.
 - ⚡ Fun Fact : I Love to Code
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=Max2408)
@@ -27,9 +22,9 @@
  <a href="https://twitter.com/BCoditive" rel="nofollow">
   <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br><br>
 
-Discord: ``</Max>#5589``
+Discord: ``<Max/>#8189``
 
-Email: ``max@ecarrd.com``
+Email: ``openrooted@gmail.com``
   
   
 <br>
@@ -41,6 +36,8 @@ Max Bot - https://github.com/beCoditive/Max-Bot
 random-jokes-api - https://github.com/beCoditive/random-jokes-api
 
 beCoditive API - https://github.com/beCoditive/beCoditive-api
+
+EasyBotJs - https://github.com/OpenRooted/EasyBotJs
  
 <br>
 
