@@ -1,28 +1,25 @@
 ### Hi there , I'm Max - aka [OpenRooted's Owner](https://github.com/OpenRooted)
 
 
-## I'm a Bot Developer and Web Developer
-- 🤖 I'm currently working on [OpenRooted's Project: EasyBotJs](https://github.com/OpenRooted/EasyBotJs)
+## I'm a Web and Game Developer
 - ⚡ I'm Great in Back-End Projects and learning Front-End Also!
-- 🥅 2023 Goals To make as many as possible Open Source projects.
+- 🥅 2024 Goals To work on some game projects.
 - ⚡ Fun Fact : I Love to Code
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=Max2408)
 
 ### Connect With me: 
- https://www.fiverr.com/share/yE0eQZ
 
- <a href="https://discord.gg/BgWv28uQD4" rel="nofollow">
-  <img alt="Phoenixx Support" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a>
-  <a href="https://instagram.com/beCoditive" rel="nofollow">
-  <img alt="beCoditive's Insta" src="https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png" style="max-width:100%;" width="22px" align="left"></a>
+ <a href="https://discord.gg/ethKDCXC" rel="nofollow">
+  <img alt="OpenRooted" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a>
+  <a href="https://instagram.com/_gfx.max" rel="nofollow">
+  <img alt="Max's Insta" src="https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png" style="max-width:100%;" width="22px" align="left"></a>
  <a href="https://dev.to/max2408">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Max's DEV Community Profile" style="max-width:100%;" width="22px" align="left">
  </a>
- <a href="https://twitter.com/BCoditive" rel="nofollow">
-  <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br><br>
+<br><br>
 
-Discord: ``<Max/>#8189``
+Discord: ``_max2408``
 
 Email: ``openrooted@gmail.com``
   
@@ -31,13 +28,7 @@ Email: ``openrooted@gmail.com``
    
 
 ## My Works:
-Max Bot - https://github.com/beCoditive/Max-Bot
-
-random-jokes-api - https://github.com/beCoditive/random-jokes-api
-
-beCoditive API - https://github.com/beCoditive/beCoditive-api
-
-EasyBotJs - https://github.com/OpenRooted/EasyBotJs
+``Currently Stoped my old projects soon will start new`` 
  
 <br>
 
