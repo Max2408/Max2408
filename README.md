@@ -8,17 +8,6 @@
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=Max2408)
 
-### Connect With me: 
-
- <a href="https://discord.gg/ethKDCXC" rel="nofollow">
-  <img alt="OpenRooted" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a>
-  <a href="https://instagram.com/_gfx.max" rel="nofollow">
-  <img alt="Max's Insta" src="https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png" style="max-width:100%;" width="22px" align="left"></a>
- <a href="https://dev.to/max2408">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Max's DEV Community Profile" style="max-width:100%;" width="22px" align="left">
- </a>
-<br><br>
-
 Discord: ``_max2408``
 
 Email: ``openrooted@gmail.com``
